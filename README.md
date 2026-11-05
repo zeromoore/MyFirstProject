@@ -68,3 +68,6 @@ Item: Milk
 Price: $3.49
 Quantity: 2
 Total: $6.98
+
+## Collaboration Acknowledgement
+This project was reviewed and edited by Tatiana Ballesteros on GitHub.
