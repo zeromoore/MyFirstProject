@@ -52,6 +52,12 @@ C1 : Create a FileWriter for receipt.txt.
 C2 : Write the details to the file, one per line (Item, Price, Quantity, Total).
 C3 : Close the file and print “Receipt saved!”.
 
+## How to Run
+1. Open the program in your IDE.
+2. Enter item name and price, then the quantity number.
+3. View the contents within the receipt and the total price.
+   Edit added by Tatiana Ballesteros
+   
 ## Example Output (Console)
 Enter item name: Milk
 Enter price: 3.49
